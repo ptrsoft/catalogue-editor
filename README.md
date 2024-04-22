@@ -1,2 +1,2 @@
 # Appkube-editor
-Appkube Editor- This repo contains Appkube Graphical Editor
+Appkube Editor- This repo contains Catalogue Making Graphical Editor
